@@ -1,3 +1,11 @@
+.idea
+*.csv
+*.json
+*.xml
+*.pdf
+*.jpg
+*output
+*.MF
 # Compiled class file
 *.class
 
